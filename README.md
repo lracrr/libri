@@ -8,3 +8,6 @@ _ciao a tutti_
 
 bla bla bla 
 gne gne gne
+
+
+Questo contenuto è protetto dalla licenza specificata nel file [LICENSE] (https://github.com/lracrr/libri/blob/master/LICENSE)
