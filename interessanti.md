@@ -8,3 +8,4 @@ Titoli
 - I bottoni di Napoleone di Penny Le Couter, non disponibile (o forse si, se vi volete male) [Amazon](https://www.amazon.it/bottoni-Napoleone-molecole-cambiato-storia/dp/8850216890)
 - Contro le donne di Paolo Ercolani, disponibile su [IBS](https://www.ibs.it/contro-donne-storia-critica-del-libro-paolo-ercolani/e/9788831724241)
 
+- il libro sulla peste e varie (dopo metterò titolo)
