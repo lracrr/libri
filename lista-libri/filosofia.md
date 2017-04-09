@@ -6,5 +6,5 @@ Bertrand Russell
 
 - libro palla
 
-- **kkkkkkkk**
+- **k kkkkkkk**
 
